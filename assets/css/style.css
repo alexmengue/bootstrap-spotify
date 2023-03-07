@@ -4,8 +4,8 @@ html, body, #home {
 }
 
 body {
-    background: url(../images/capa.png),
-                url(../images/ruido.png),
+    background: url(../../assets/img/capa.png),
+                url(../../assets/img/ruido.png),
                 linear-gradient(50deg, #FF4169, #7C26F8);
     background-attachment: fixed;
     font-family: Helvetica, Arial, sans-serif;
